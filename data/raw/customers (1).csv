@@ -1,0 +1,14 @@
+customer_id,customer_name,email,city,loyalty_tier,join_date
+C001,Rahul Sharma,rahul.sharma@email.com,Mumbai,Gold,2022-03-10
+C002,Priya Patel,priya.patel@email.com,Delhi,Silver,2023-01-05
+C003,Amit Verma,amit.verma@email.com,Bangalore,Bronze,2023-06-15
+C004,Sneha Gupta,sneha.gupta@email.com,Pune,Gold,2021-11-20
+C005,Vikram Singh,vikram.singh@email.com,Chennai,Silver,2022-08-30
+C006,Anjali Mehta,anjali.mehta@email.com,Kolkata,Bronze,2023-09-01
+C007,Rajesh Kumar,rajesh.kumar@email.com,Hyderabad,Gold,2020-05-15
+C008,Pooja Nair,pooja.nair@email.com,Ahmedabad,Silver,2022-12-01
+C009,Deepak Joshi,deepak.joshi@email.com,Jaipur,Bronze,2023-07-20
+C010,Kavya Reddy,kavya.reddy@email.com,Lucknow,Silver,2022-04-10
+C011,Suresh Yadav,suresh.yadav@email.com,Indore,Bronze,2024-01-01
+C012,Meena Pillai,meena.pillai@email.com,Bhopal,Gold,2021-08-25
+C013,Arjun Tiwari,arjun.tiwari@email.com,Nagpur,Silver,2023-03-14

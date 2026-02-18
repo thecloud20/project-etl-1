@@ -1,0 +1,9 @@
+[
+  {"product_id": "P101", "product_name": "Wireless Headphones", "category": "Electronics", "brand": "SoundMax", "cost_price": 250.00},
+  {"product_id": "P102", "product_name": "Laptop Pro 15", "category": "Electronics", "brand": "TechPro", "cost_price": 700.00},
+  {"product_id": "P103", "product_name": "Running Shoes", "category": "Footwear", "brand": "SpeedFit", "cost_price": 90.00},
+  {"product_id": "P104", "product_name": "Water Bottle", "category": "Accessories", "brand": "HydroLife", "cost_price": 30.00},
+  {"product_id": "P105", "product_name": "Yoga Mat", "category": "Fitness", "brand": "ZenFlex", "cost_price": 60.00},
+  {"product_id": "P106", "product_name": "Smart Watch", "category": "Electronics", "brand": "TimeTech", "cost_price": 180.00},
+  {"product_id": "P107", "product_name": "Backpack Pro", "category": "Accessories", "brand": "TravelGear", "cost_price": 200.00}
+]
